@@ -20,7 +20,7 @@ This project showcases a **multi-screen digital gallery experience**, designed f
 ---
 
 ## 📷 Preview
-Gallery View./screens/<img width="963" height="608" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/4f001f91-af8d-4bb6-b5ca-34095c1a3b88" />
+Gallery View.<img width="963" height="608" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/4f001f91-af8d-4bb6-b5ca-34095c1a3b88" />
 
 Submit Artwork.<img width="725" height="460" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/5651f83f-b20a-4fa4-86cd-a6b95f3f34e9" />
 
